@@ -1,0 +1,6 @@
+{
+    "gcs_bucket": "gcpug_shonan_demo",
+    "gcs_dst": "data/gcpug_demo_data.json",
+    "local_src": "/home/airflow/gcs/data/gcpug_demo_data.json",
+    "project_id": "my-project"
+}
